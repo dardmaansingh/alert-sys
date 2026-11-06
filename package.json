@@ -1,0 +1,19 @@
+{
+  "name": "wireless-network-traffic-monitor-alerting-system",
+  "version": "1.0.0",
+  "description": "Wireless Network Traffic Monitoring and Rule-based Alerting System - Database Schema & Models",
+  "main": "models/index.js",
+  "keywords": [
+    "network-monitoring",
+    "syslog",
+    "rule-based-alerting",
+    "cybersecurity",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Team 6",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
